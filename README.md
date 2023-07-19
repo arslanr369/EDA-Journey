@@ -31,6 +31,6 @@ To explore any of the projects listed above, simply click on the corresponding l
 If you have any questions, feedback, or collaboration opportunities, feel free to reach out to me. You can find my contact information below:
 
 - Email: [arslanriaz785@gmail.com](mailto:arslanriaz785@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/Arslanr369/)
+- LinkedIn : [Your LinkedIn Profile](https://www.linkedin.com/in/Arslanr369/)
 
 I hope you find my EDA projects insightful and engaging. Happy exploring!
