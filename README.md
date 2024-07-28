@@ -11,7 +11,7 @@ My name is Arslan and I'm a Google Certified Data Analyst. I'm passionate about 
 
 2. [Project 2: Customer Segmentation](link-to-project-2) - This project focuses on segmenting customers based on their purchasing behavior, allowing for targeted marketing strategies.
 
-3. [Project 3: Social Media Sentiment Analysis](link-to-project-3) - Using natural language processing techniques, I conducted sentiment analysis on social media data to gain insights into public opinions and sentiments.
+3. [Project 3: EDA of Indian Restaurants 📊](https://www.kaggle.com/code/arslanr369/eda-of-indian-restaurants) - Using natural language processing techniques, I conducted sentiment analysis on social media data to gain insights into public opinions and sentiments.
 
 ## Technologies and Tools
 
